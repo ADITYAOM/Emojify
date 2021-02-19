@@ -111,10 +111,17 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+<<<<<<< HEAD
     <state x="516" y="288" width="950" height="537" key="#PSD" timestamp="1613735316580">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="516" y="288" width="950" height="537" key="#PSD/72.27.1848.1053@72.27.1848.1053" timestamp="1613735316580" />
+=======
+    <state x="516" y="288" width="950" height="537" key="#PSD" timestamp="1613735160016">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="516" y="288" width="950" height="537" key="#PSD/72.27.1848.1053@72.27.1848.1053" timestamp="1613735160016" />
+>>>>>>> TLIB.01-Exercise-AddGradleDependency
     <state x="871" y="48" width="1022" height="737" key="SettingsEditor" timestamp="1613733483287">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
