@@ -23,5 +23,9 @@
     <string name="go">GO</string>
     <string name="permission_denied">Permission denied</string>
     <string name="imageview_description">The imageview that contains the emojified picture</string>
+<<<<<<< HEAD
     <string name="no_faces_message">There are no faces</string>
+=======
+    <string name="no_faces_message">No Faces Detected</string>
+>>>>>>> TLIB.03-Exercise-GetClassificationProbabilities
 </resources>
